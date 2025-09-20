@@ -1,0 +1,54 @@
+/* I used AI to create the basic stylesheet structure with the sematic elements I had. I chose the rest of the attributes */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #222;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.75em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1em; }
+h6 { font-size: 0.87em; }
+
+p {
+    margin-bottom: 1em;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin-bottom: 1em;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: flexbox;
+    border-radius: 8px;
+}
+
