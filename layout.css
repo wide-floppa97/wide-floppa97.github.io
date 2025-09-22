@@ -1,4 +1,4 @@
-/* I used AI to create the basic stylesheet structure with the sematic elements I had. I chose the rest of the attributes */
+/* I used AI to help choose some css elements like the sizes, margins, font, and link behavior*/
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -28,7 +28,7 @@ p {
 }
 
 a {
-    color: #0077cc;
+    color: #005694;
     text-decoration: none;
 }
 
@@ -52,3 +52,7 @@ img {
     border-radius: 8px;
 }
 
+iframe {
+    max-width: 100%;
+    border: none;
+}
