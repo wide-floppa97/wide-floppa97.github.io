@@ -56,3 +56,8 @@ iframe {
     max-width: 100%;
     border: none;
 }
+
+hr {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
